@@ -1,0 +1,13 @@
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\bin\Debug\netcoreapp3.1\Kamp5Game.exe
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\bin\Debug\netcoreapp3.1\Kamp5Game.deps.json
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\bin\Debug\netcoreapp3.1\Kamp5Game.runtimeconfig.json
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\bin\Debug\netcoreapp3.1\Kamp5Game.runtimeconfig.dev.json
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\bin\Debug\netcoreapp3.1\Kamp5Game.dll
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\bin\Debug\netcoreapp3.1\Kamp5Game.pdb
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\obj\Debug\netcoreapp3.1\Kamp5Game.csprojAssemblyReference.cache
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\obj\Debug\netcoreapp3.1\Kamp5Game.AssemblyInfoInputs.cache
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\obj\Debug\netcoreapp3.1\Kamp5Game.AssemblyInfo.cs
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\obj\Debug\netcoreapp3.1\Kamp5Game.csproj.CoreCompileInputs.cache
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\obj\Debug\netcoreapp3.1\Kamp5Game.dll
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\obj\Debug\netcoreapp3.1\Kamp5Game.pdb
+C:\Users\mutlu\Desktop\VSCode\Kamp5Game\obj\Debug\netcoreapp3.1\Kamp5Game.genruntimeconfig.cache
